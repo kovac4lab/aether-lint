@@ -1,2 +1,5 @@
 # aether-lint
-Lightweight Nix utilities and helpers (aether-lint)
+
+Lightweight `Nix` utilities maintained by @kovac4lab.
+
+- Focus: Bridging product ideas and solid engineering execution.
